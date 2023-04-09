@@ -161,7 +161,7 @@
     },
     {
         "id": 11,
-        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo11.png?raw=truehttps://example.com/company_logo11.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo11.png?raw=true",
         "job_title": "Marketing Coordinator",
         "company_name": "Marketing Solutions",
         "job_site": "Indeed",
@@ -177,7 +177,7 @@
     },
     {
         "id": 12,
-        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo12.png?raw=truehttps://example.com/company_logo12.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo12.png?raw=true",
         "job_title": "Sales Representative",
         "company_name": "Sales Solutions",
         "job_site": "Glassdoor",
