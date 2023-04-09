@@ -1,0 +1,16 @@
+{
+    "id": 8,
+    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo8.png?raw=true",
+    "job_title": "Customer Support Specialist",
+    "company_name": "SupportNow",
+    "job_site": "Glassdoor",
+    "location": "Austin, TX",
+    "job_type": "Full-time",
+    "salary": "40,000 - 50,000 USD",
+    "job_description": "SupportNow is seeking a customer support specialist to join our team...",
+    "job_responsibility": "Provide excellent customer service...",
+    "educational_requirements": "High school diploma or equivalent...",
+    "experiences": "1+ years of experience in customer support...",
+    "phone": "+1 (555) 555-3456",
+    "email": "support@supportnow.com"
+}

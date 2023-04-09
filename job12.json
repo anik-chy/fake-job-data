@@ -1,0 +1,16 @@
+{
+    "id": 12,
+    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo12.png?raw=true",
+    "job_title": "Sales Representative",
+    "company_name": "Sales Solutions",
+    "job_site": "Glassdoor",
+    "location": "Dallas, TX",
+    "job_type": "Full-time",
+    "salary": "50,000 - 70,000 USD",
+    "job_description": "Sales Solutions is seeking a sales representative to join our team...",
+    "job_responsibility": "Develop and maintain relationships with clients...",
+    "educational_requirements": "Bachelor's degree in Sales or related field...",
+    "experiences": "3+ years of experience in sales...",
+    "phone": "+1 (555) 555-3456",
+    "email": "jobs@salessolutions.com"
+}

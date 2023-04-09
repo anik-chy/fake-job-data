@@ -1,0 +1,16 @@
+{
+    "id": 7,
+    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo7.png?raw=true",
+    "job_title": "HR Generalist",
+    "company_name": "HR Solutions",
+    "job_site": "LinkedIn",
+    "location": "Denver, CO",
+    "job_type": "Full-time",
+    "salary": "60,000 - 80,000 USD",
+    "job_description": "HR Solutions is seeking an experienced HR generalist...",
+    "job_responsibility": "Administer employee benefits...",
+    "educational_requirements": "Bachelor's degree in Human Resources or related field...",
+    "experiences": "3+ years of experience in HR...",
+    "phone": "+1 (555) 555-6789",
+    "email": "hr@hrsolutions.com"
+}

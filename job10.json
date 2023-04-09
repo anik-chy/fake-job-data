@@ -1,0 +1,16 @@
+{
+    "id": 10,
+    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo10.png?raw=true",
+    "job_title": "Software Engineer",
+    "company_name": "Tech Solutions",
+    "job_site": "LinkedIn",
+    "location": "San Francisco, CA",
+    "job_type": "Full-time",
+    "salary": "130,000 - 150,000 USD",
+    "job_description": "Tech Solutions is seeking a talented software engineer to join our team...",
+    "job_responsibility": "Design and develop software applications...",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field...",
+    "experiences": "5+ years of experience in software engineering...",
+    "phone": "+1 (555) 555-2345",
+    "email": "jobs@techsolutions.com"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 11,
+    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo11.png?raw=true",
+    "job_title": "Marketing Coordinator",
+    "company_name": "Marketing Solutions",
+    "job_site": "Indeed",
+    "location": "Chicago, IL",
+    "job_type": "Full-time",
+    "salary": "50,000 - 60,000 USD",
+    "job_description": "Marketing Solutions is seeking a marketing coordinator to join our team...",
+    "job_responsibility": "Assist with the development and execution of marketing campaigns...",
+    "educational_requirements": "Bachelor's degree in Marketing or related field...",
+    "experiences": "2+ years of experience in marketing...",
+    "phone": "+1 (555) 555-6789",
+    "email": "jobs@marketingsolutions.com"
+}

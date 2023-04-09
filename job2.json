@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo2.png?raw=true",
+    "job_title": "Marketing Manager",
+    "company_name": "Global Industries",
+    "job_site": "LinkedIn",
+    "location": "San Francisco, CA",
+    "job_type": "Contract",
+    "salary": "80,000 - 100,000 USD",
+    "job_description": "Global Industries is seeking a creative and experienced marketing manager...",
+    "job_responsibility": "Develop and implement marketing strategies...",
+    "educational_requirements": "Bachelor's degree in Marketing...",
+    "experiences": "7+ years of experience in marketing...",
+    "phone": "+1 (555) 555-5678",
+    "email": "careers@globalindustries.com"
+}
