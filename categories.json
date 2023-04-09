@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "img": "",
+        "img": "https://github.com/anik-chy/fake-job-data/blob/main/category/accounts.png?raw=true",
         "job-type":"Account & Finance",
         "availability":"300 Jobs Available"
     },
     {
         "id": 2,
-        "img": "",
+        "img": "https://github.com/anik-chy/fake-job-data/blob/main/category/business.png?raw=true",
         "job-type":"Creative Design",
         "availability":"100+ Jobs Available"
     },
     {
         "id": 3,
-        "img": "",
+        "img": "https://github.com/anik-chy/fake-job-data/blob/main/category/social-media.png?raw=true",
         "job-type":"Marketing & Sales",
         "availability":"150 Jobs Available"
     },
     {
         "id": 4,
-        "img": "",
+        "img": "https://github.com/anik-chy/fake-job-data/blob/main/category/chip.png?raw=true",
         "job-type":"Engineering Job",
         "availability":"224 Jobs Available"
     },
