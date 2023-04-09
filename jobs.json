@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "company_logo": "https://example.com/company_logo1.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo1.png?raw=true",
         "job_title": "Software Engineer",
         "company_name": "Acme Corp",
         "job_site": "Indeed",
@@ -17,7 +17,7 @@
     },
     {
         "id": 2,
-        "company_logo": "https://example.com/company_logo2.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo2.png?raw=true",
         "job_title": "Marketing Manager",
         "company_name": "Global Industries",
         "job_site": "LinkedIn",
@@ -33,7 +33,7 @@
     },
     {
         "id": 3,
-        "company_logo": "https://example.com/company_logo3.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo3.png?raw=true",
         "job_title": "Data Scientist",
         "company_name": "Tech Innovations",
         "job_site": "Glassdoor",
@@ -49,7 +49,7 @@
     },
     {
         "id": 4,
-        "company_logo": "https://example.com/company_logo4.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo4.png?raw=true",
         "job_title": "Sales Representative",
         "company_name": "Big Enterprises",
         "job_site": "ZipRecruiter",
@@ -65,7 +65,7 @@
     },
     {
         "id": 5,
-        "company_logo": "https://example.com/company_logo5.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo5.png?raw=true",
         "job_title": "Graphic Designer",
         "company_name": "Design Avenue",
         "job_site": "Behance",
@@ -81,7 +81,7 @@
     },
     {
         "id": 6,
-        "company_logo": "https://example.com/company_logo6.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo6.png?raw=true",
         "job_title": "Product Manager",
         "company_name": "Innovative Solutions",
         "job_site": "Indeed",
@@ -97,7 +97,7 @@
     },
     {
         "id": 7,
-        "company_logo": "https://example.com/company_logo7.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo7.png?raw=true",
         "job_title": "HR Generalist",
         "company_name": "HR Solutions",
         "job_site": "LinkedIn",
@@ -113,7 +113,7 @@
     },
     {
         "id": 8,
-        "company_logo": "https://example.com/company_logo8.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo8.png?raw=true",
         "job_title": "Customer Support Specialist",
         "company_name": "SupportNow",
         "job_site": "Glassdoor",
@@ -129,7 +129,7 @@
     },
     {
         "id": 9,
-        "company_logo": "https://example.com/company_logo9.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo9.png?raw=true",
         "job_title": "Operations Manager",
         "company_name": "Logistics Solutions",
         "job_site": "Indeed",
@@ -145,7 +145,7 @@
     },
     {
         "id": 10,
-        "company_logo": "https://example.com/company_logo10.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo10.png?raw=true",
         "job_title": "Software Engineer",
         "company_name": "Tech Solutions",
         "job_site": "LinkedIn",
@@ -161,7 +161,7 @@
     },
     {
         "id": 11,
-        "company_logo": "https://example.com/company_logo11.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo11.png?raw=truehttps://example.com/company_logo11.png",
         "job_title": "Marketing Coordinator",
         "company_name": "Marketing Solutions",
         "job_site": "Indeed",
@@ -177,7 +177,7 @@
     },
     {
         "id": 12,
-        "company_logo": "https://example.com/company_logo12.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo12.png?raw=truehttps://example.com/company_logo12.png",
         "job_title": "Sales Representative",
         "company_name": "Sales Solutions",
         "job_site": "Glassdoor",
@@ -193,7 +193,7 @@
     },
     {
         "id": 13,
-        "company_logo": "https://example.com/company_logo13.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo13.png?raw=true",
         "job_title": "Accountant",
         "company_name": "Financial Solutions",
         "job_site": "LinkedIn",
@@ -209,7 +209,7 @@
     },
     {
         "id": 14,
-        "company_logo": "https://example.com/company_logo14.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo14.png?raw=true",
         "job_title": "Front-end Developer",
         "company_name": "Web Solutions",
         "job_site": "Indeed",
@@ -225,7 +225,7 @@
     },
     {
         "id": 15,
-        "company_logo": "https://example.com/company_logo15.png",
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo15.png?raw=true",
         "job_title": "Data Analyst",
         "company_name": "Analytics Solutions",
         "job_site": "Glassdoor",
