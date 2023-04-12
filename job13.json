@@ -1,16 +1,18 @@
-{
-    "id": 13,
-    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo13.png?raw=true",
-    "job_title": "Accountant",
-    "company_name": "Financial Solutions",
-    "job_site": "Remote",
-    "location": "New York, NY",
-    "job_type": "Full-time",
-    "salary": "70,000 - 90,000 USD",
-    "job_description": "Financial Solutions is seeking an experienced accountant...",
-    "job_responsibility": "Prepare and analyze financial statements...",
-    "educational_requirements": "Bachelor's degree in Accounting or related field...",
-    "experiences": "5+ years of experience in accounting...",
-    "phone": "+1 (555) 555-2345",
-    "email": "jobs@financialsolutions.com"
-}
+[
+    {
+        "id": 13,
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo13.png?raw=true",
+        "job_title": "Accountant",
+        "company_name": "Financial Solutions",
+        "job_site": "Remote",
+        "location": "New York, NY",
+        "job_type": "Full-time",
+        "salary": "70,000 - 90,000 USD",
+        "job_description": "Financial Solutions is seeking an experienced accountant...",
+        "job_responsibility": "Prepare and analyze financial statements...",
+        "educational_requirements": "Bachelor's degree in Accounting or related field...",
+        "experiences": "5+ years of experience in accounting...",
+        "phone": "+1 (555) 555-2345",
+        "email": "jobs@financialsolutions.com"
+    }
+]

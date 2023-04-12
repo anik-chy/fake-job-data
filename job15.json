@@ -1,16 +1,18 @@
-{
-    "id": 15,
-    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo15.png?raw=true",
-    "job_title": "Data Analyst",
-    "company_name": "Analytics Solutions",
-    "job_site": "Remote",
-    "location": "Boston, MA",
-    "job_type": "Full-time",
-    "salary": "70,000 - 90,000 USD",
-    "job_description": "Analytics Solutions is seeking a data analyst to join our team...",
-    "job_responsibility": "Analyze and interpret complex data sets...",
-    "educational_requirements": "Bachelor's degree in Mathematics, Statistics, or related field...",
-    "experiences": "3+ years of experience in data analysis...",
-    "phone": "+1 (555) 555-3456",
-    "email": "jobs@analyticssolutions.com"
-}
+[
+    {
+        "id": 15,
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo15.png?raw=true",
+        "job_title": "Data Analyst",
+        "company_name": "Analytics Solutions",
+        "job_site": "Remote",
+        "location": "Boston, MA",
+        "job_type": "Full-time",
+        "salary": "70,000 - 90,000 USD",
+        "job_description": "Analytics Solutions is seeking a data analyst to join our team...",
+        "job_responsibility": "Analyze and interpret complex data sets...",
+        "educational_requirements": "Bachelor's degree in Mathematics, Statistics, or related field...",
+        "experiences": "3+ years of experience in data analysis...",
+        "phone": "+1 (555) 555-3456",
+        "email": "jobs@analyticssolutions.com"
+    }
+]

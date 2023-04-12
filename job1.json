@@ -1,16 +1,18 @@
-{
-    "id": 1,
-    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo1.png?raw=true",
-    "job_title": "Software Engineer",
-    "company_name": "Acme Corp",
-    "job_site": "Remote",
-    "location": "New York, NY",
-    "job_type": "Full-time",
-    "salary": "100,000 - 120,000 USD",
-    "job_description": "Acme Corp is seeking a talented software engineer to join our team...",
-    "job_responsibility": "Design, develop and maintain software applications...",
-    "educational_requirements": "Bachelor's or Master's degree in Computer Science...",
-    "experiences": "5+ years of experience in software development...",
-    "phone": "+1 (555) 555-1234",
-    "email": "hr@acmecorp.com"
-}
+[
+    {
+        "id": 1,
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo1.png?raw=true",
+        "job_title": "Software Engineer",
+        "company_name": "Acme Corp",
+        "job_site": "Remote",
+        "location": "New York, NY",
+        "job_type": "Full-time",
+        "salary": "100,000 - 120,000 USD",
+        "job_description": "Acme Corp is seeking a talented software engineer to join our team...",
+        "job_responsibility": "Design, develop and maintain software applications...",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science...",
+        "experiences": "5+ years of experience in software development...",
+        "phone": "+1 (555) 555-1234",
+        "email": "hr@acmecorp.com"
+    }
+]

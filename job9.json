@@ -1,16 +1,18 @@
-{
-    "id": 9,
-    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo9.png?raw=true",
-    "job_title": "Operations Manager",
-    "company_name": "Logistics Solutions",
-    "job_site": "Remote",
-    "location": "Atlanta, GA",
-    "job_type": "Full-time",
-    "salary": "90,000 - 110,000 USD",
-    "job_description": "Logistics Solutions is seeking an operations manager to join our team...",
-    "job_responsibility": "Develop and implement processes...",
-    "educational_requirements": "Bachelor's degree in Business or related field...",
-    "experiences": "5+ years of experience in operations management...",
-    "phone": "+1 (555) 555-7890",
-    "email": "jobs@logisticssolutions.com"
-}
+[
+    {
+        "id": 9,
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo9.png?raw=true",
+        "job_title": "Operations Manager",
+        "company_name": "Logistics Solutions",
+        "job_site": "Remote",
+        "location": "Atlanta, GA",
+        "job_type": "Full-time",
+        "salary": "90,000 - 110,000 USD",
+        "job_description": "Logistics Solutions is seeking an operations manager to join our team...",
+        "job_responsibility": "Develop and implement processes...",
+        "educational_requirements": "Bachelor's degree in Business or related field...",
+        "experiences": "5+ years of experience in operations management...",
+        "phone": "+1 (555) 555-7890",
+        "email": "jobs@logisticssolutions.com"
+    }
+]

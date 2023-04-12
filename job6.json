@@ -1,16 +1,18 @@
-{
-    "id": 6,
-    "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo6.png?raw=true",
-    "job_title": "Product Manager",
-    "company_name": "Innovative Solutions",
-    "job_site": "Onsite",
-    "location": "Boston, MA",
-    "job_type": "Full-time",
-    "salary": "110,000 - 130,000 USD",
-    "job_description": "Innovative Solutions is seeking a product manager to join our team...",
-    "job_responsibility": "Define and prioritize product features...",
-    "educational_requirements": "Bachelor's degree in Business or related field...",
-    "experiences": "5+ years of experience in product management...",
-    "phone": "+1 (555) 555-2345",
-    "email": "jobs@innovativesolutions.com"
-}
+[
+    {
+        "id": 6,
+        "company_logo": "https://github.com/anik-chy/fake-job-data/blob/main/logos/_logo6.png?raw=true",
+        "job_title": "Product Manager",
+        "company_name": "Innovative Solutions",
+        "job_site": "Onsite",
+        "location": "Boston, MA",
+        "job_type": "Full-time",
+        "salary": "110,000 - 130,000 USD",
+        "job_description": "Innovative Solutions is seeking a product manager to join our team...",
+        "job_responsibility": "Define and prioritize product features...",
+        "educational_requirements": "Bachelor's degree in Business or related field...",
+        "experiences": "5+ years of experience in product management...",
+        "phone": "+1 (555) 555-2345",
+        "email": "jobs@innovativesolutions.com"
+    }
+]
